@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Protest';
+    src: url(./fuentes/Protest_Guerrilla/ProtestGuerrilla-Regular.ttf);
+    font-family: 'Mukta';
+    src: url(./fuentes/Mukta/Mukta-Medium.ttf)
+}
+
+#contenedor1 {
+    display: inline;
+}
+#contenedor1 p {
+    color: #dd90d7;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#contenedor1 h1 {
+    
+    width: 100%;
+    text-align: center;
+}
+#contenedor1 h2 {
+    color: #fc80ca;
+    text-align: center;
+    font-size: larger;
+} 
+#contenedor2 p {
+    color: #ee3ab8;
+    margin-bottom: 1rem;
+}
+#contenedor2 {
+    flex-direction: column;
+    align-items: center;
+}
+#si {
+    width: 300px;
+    align-self: center;
+}
+#no {
+    width: 300px;
+    align-self: center;
+}
+
+#contenedor3 {
+    display: inline;
+    text-align: center;
+}
+#contenedor3 h3{
+    color: #e07c9d;
+    margin-top: 1rem;
+}
+#contenedor3 p {
+    color: #f385ee;
+}
+#contenedor4 {
+    flex-direction: column;
+}
+
+.contenedor4 {
+    flex-direction: column;
+}
+
+.contenedor4 h3 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+#contenedor4 h3 {
+    color: #f8c5ed;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+#contenedor4 .card {
+    width: 41%;
+    align-self: center;
+    margin: 32px 
+}
+#contenedor4 p {
+    font-size: x-large;
+    text-align: center;
+    color: #cdb1ce;;
+    text-decoration: underline;
+}
+.car {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgb(243, 238, 238) 0%, rgb(241, 91, 191) 50%, rgb(248, 56, 184) 100%);;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bienvenida {
+    font-family:'Caveat';
+    color: #e71690;
+}
+.bienvenida h2 {
+    font-family: 'Caveat';
+    color: #db64b8;
+}
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    display: flex;
+    width: 18rem;
+    margin: 30px;
+}
+
+.seccion {
+    display: inline;
+    width: 100%;
+}

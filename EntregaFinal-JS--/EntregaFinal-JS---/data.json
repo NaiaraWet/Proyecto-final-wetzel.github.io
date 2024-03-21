@@ -1,0 +1,14 @@
+
+[
+    {"id": 1, "nombre": "Serum", "precio": "30 USD", "imagen": "assets/imagenes/serum.jpeg"},
+    {"id": 2, "nombre": "Serum hidratante", "precio": "40 USD", "imagen": "assets/imagenes/serumhidratante.jpeg"},
+    {"id": 3, "nombre": "Niacinamida", "precio": "100 USD", "imagen": "assets/imagenes/niacinamida.jpeg"},
+    {"id": 4, "nombre": "Limpiador facial", "precio": "50 USD", "imagen": "assets/imagenes/limpiador facial.jpeg"},
+    {"id": 5, "nombre": "Crema hidratante", "precio": "150 USD", "imagen": "assets/imagenes/crema hidratante.jpeg"},
+    {"id": 6, "nombre": "Bronzing drops", "precio": "200 USD", "imagen": "assets/imagenes/bronzingdrops.jpeg"},
+    {"id": 7, "nombre": "Sea scrub", "precio": "170 USD", "imagen": "assets/imagenes/seascrub.jpeg"},
+    {"id": 8, "nombre": "Beija cream", "precio": "90 USD", "imagen": "assets/imagenes/beijacream.jpeg"},
+    {"id": 9, "nombre": "Lip bubble", "precio": "85 USD", "imagen": "assets/imagenes/lipbubble.jpeg"},
+    {"id": 10, "nombre": "Blush", "precio": "100 USD", "imagen": "assets/imagenes/blush.jpeg"}
+  ]
+  
